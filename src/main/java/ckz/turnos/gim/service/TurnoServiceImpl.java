@@ -14,7 +14,7 @@ import ckz.turnos.gim.entity.Turno;
 @Service
 public class TurnoServiceImpl  implements ITurnoService{
 	
-	
+	//sa
 	@Autowired
 	private ITurnoDao turnodao;
 
