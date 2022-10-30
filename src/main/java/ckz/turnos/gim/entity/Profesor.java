@@ -23,7 +23,7 @@ import javax.persistence.Column;
 @Table(name="profesores",schema = "sql10530047")
  public class Profesor implements Serializable{
 
-//git
+
 
 
 
