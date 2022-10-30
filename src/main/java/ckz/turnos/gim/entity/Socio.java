@@ -36,7 +36,7 @@ import javax.persistence.Column;
 	
 	@Column(name="nombre"  )
 	private String nombre;
-	//h
+	
 	@Column(name="apellido"  )
 	private String apellido;
 	
