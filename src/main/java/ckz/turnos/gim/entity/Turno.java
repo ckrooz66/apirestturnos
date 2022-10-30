@@ -18,7 +18,7 @@ import javax.persistence.Column;
 public class Turno  implements Serializable{
 
  
-	//HOLAs
+	//HOLAsss
 	
 	private static final long serialVersionUID = 1L;
 	
